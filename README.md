@@ -1,4 +1,4 @@
-### Olá, eu sou é Marcela Lopes 👋
+### Olá, meu nome é Marcela Lopes 👋
 
 <!--
 **Marcelalopes/Marcelalopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
