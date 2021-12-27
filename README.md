@@ -1,5 +1,6 @@
 ### Oii eu sou a Marcela Lopes 👋
 
+- Téc. em Informática pelo IFPI
 - Cursando Ciências da Computação pela UESPI
 - Aprendendo C# através do Lead Mentoring
 
