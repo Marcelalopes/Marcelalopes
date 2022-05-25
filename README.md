@@ -2,7 +2,7 @@
 
 - Téc. em Informática pelo IFPI
 - Cursando Ciências da Computação pela UESPI
-- Aprendendo C# através do Lead Mentoring
+- Aprendendo Desenvolvimento C#
 
 <div align="center">
   <a href="https://github.com/Marcelalopes">
